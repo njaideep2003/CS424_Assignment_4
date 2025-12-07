@@ -1,0 +1,13 @@
+# Ignore datasets
+*.csv
+*.geojson
+*.zip
+*.json
+*.pkl
+data/
+datasets/
+raw_data/
+
+# Ignore system files
+.DS_Store
+
